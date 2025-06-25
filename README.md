@@ -37,7 +37,7 @@ This is my solution to the [IP Address Tracker challenge](https://www.frontendme
 ## 🔗 Links
 
 - Solution: [My Frontend Mentor Submission](https://www.frontendmentor.io/solutions/your-solution-link)
-- Live Site: [Live Demo](https://your-username.github.io/ip-address-tracker/)
+- Live Site: [Live Demo](https://bean-123.github.io/ip-address-tracker/)
 
 ---
 
