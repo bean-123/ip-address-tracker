@@ -29,7 +29,7 @@ This is my solution to the [IP Address Tracker challenge](https://www.frontendme
 
 ## 📷 Screenshot
 
-![design](ip-address-tracker-master/images/design.png)
+![design](images/design.png)
 
 
 ---
