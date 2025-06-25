@@ -7,7 +7,10 @@
 
 .pageWrap {
     position: relative;
-    min-height: 98vh;
+    min-height: 100vh;
+    padding-bottom: 20px;
+    display: flex;
+    flex-direction: column;
 }
 
 .hero {
@@ -19,6 +22,7 @@
     color: white;
     position: relative;
     z-index: 1;
+    flex-shrink: 0;
 }
 
 .hero h1 {
@@ -90,16 +94,23 @@ button {
 }
 
 #map {
-    height: 70vh;
     width: 100%;
     margin-top: 0px;
     z-index: 0;
     position: relative;
+    flex-grow: 1;
+    height: auto;
 }
 
 .attribution{
-    color: black;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background: white;
     text-align: center;
+    z-index: 100;
+    padding: 5px;
     font-size: 12px;
 }
 
